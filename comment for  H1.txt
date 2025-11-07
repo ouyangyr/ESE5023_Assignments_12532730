@@ -1,0 +1,8 @@
+(+5) The code has good logic and clear comments.
+
+1. (-0) 
+2. (-0) 
+3.1 (-0) The complexity of the answer is extremely low effective. Please try solve the problem by effective manner.
+3.2 (-3) No result is provided.
+4.3. (-3) There are two problems in the answer of 4.3. Firstly, the figure have not shown in the file. Secondly, the description for the figure is not provided. For the next homework, please solve the problem following the requirements of the problem.
+5. (-0)
