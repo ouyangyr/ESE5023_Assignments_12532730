@@ -1,0 +1,15 @@
+1. (-0) 
+deaths_by_country = (
+    Sig_Eqs[['Country', 'Deaths']]
+    # 按照 "Country" 分组
+    .groupby('Country')
+    # 对每个国家的死亡人数进行求和
+    .sum()
+    # 按照 "Deaths" 列进行降序排列
+    .sort_values(by='Deaths', ascending=False)
+    # 取前 10 行
+
+Try not to put each function call (e.g., groupby, sum, sort_values) on a separate line. Keeping them on one line will make the code cleaner.
+
+2. (-2) You should try to filter out bad data before plotting the figure, for example, removing abnormal values and missing data.
+3. (-0) 
